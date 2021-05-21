@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(56, 173, 241);
+    background-color: rgb(165, 219, 248);
      color: black;
     padding: 20px;
 }
@@ -46,22 +46,22 @@ float: left;
 }
 
 nav{
-background-color:rgb(32, 179, 224);
+background-color:rgb(144, 215, 248);
 color:rgb(61, 183, 240));
 padding: 20px;
 }
 section{
     float: left;
     width: 70%;
-    background-color: cyan;
+    background-color: rgb(252, 254, 255);
 }
 aside{
     float: left;
     width: 30%;
-    background-color: darkkhaki;
+    background-color: rgb(28, 129, 237);
 }
 footer{
-    background-color: rgb(127, 68, 223);
+    background-color: rgb(108, 189, 243);
     color: white;
     padding: 20px;
 }
