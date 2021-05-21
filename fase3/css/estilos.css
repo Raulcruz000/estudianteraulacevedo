@@ -1,0 +1,73 @@
+header{
+    background-color: rgb(56, 173, 241);
+     color: black;
+    padding: 20px;
+}
+primer nivel
+
+
+nav ul ul{
+    display: none;
+}
+
+
+nav a {
+text-decoration: none;
+}
+
+nav ul ul ul {display: none;}
+
+
+
+nav > ul{
+    background: *333px; ;
+    display: table;
+    width:100%;
+}
+nav li{
+    line-height: 3rem;
+    position: relative;
+}
+
+nav a {
+    color:rgb(2, 2, 2);
+    display: block;
+    padding: 0 1.0cm;
+    text-decoration: none;
+    transition: 4s; 
+}
+
+nav a:hover{
+    background: rgba(0,0,0,.5);
+}
+
+nav > ul > li {
+float: left;
+}
+
+nav{
+background-color:rgb(32, 179, 224);
+color:rgb(61, 183, 240));
+padding: 20px;
+}
+section{
+    float: left;
+    width: 70%;
+    background-color: cyan;
+}
+aside{
+    float: left;
+    width: 30%;
+    background-color: darkkhaki;
+}
+footer{
+    background-color: rgb(127, 68, 223);
+    color: white;
+    padding: 20px;
+}
+
+.contenedor::after{
+    content:"" ;
+    display: block;
+    clear: both;
+}
